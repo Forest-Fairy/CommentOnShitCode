@@ -1,3 +1,5 @@
+# [中文文档](https://github.com/Forest-Fairy/CommentOnShitCode/blob/main/READEME.zh.md)
+
 # CommentOnShitCode
 this is a repository for anyone to upload his code and others to comment on it
 
